@@ -1,3 +1,11 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-left: 16px;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
