@@ -2,7 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .img {
@@ -12,4 +13,30 @@
 .textGroup {
     max-width: 50%;
     text-align: center;
+}
+
+.footerLeft {
+    padding-left: 24px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.headerLinks {
+    margin: 10px;
+    align-items: center;
+    margin-left: 50%;
+}
+
+.link {
+    text-decoration: none;
+    font-size: x-large;
+    color: black;
+    margin: 10px;
+}
+
+.link:hover {
+    text-decoration: underline;
 }
